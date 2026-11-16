@@ -1,0 +1,1 @@
+Copy TTF or OTF font files into this folder, then run: python main.py examples --output font-atlas.html\n
